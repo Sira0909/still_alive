@@ -1,7 +1,7 @@
 This repo is a WIP recreation of the Still Alive scene from the ending credits of Portal.
 Run "stillalive.java" in a Terminal/Command line that supports ANSI.
 
-This is a work in progress, and the melody and full lyrics are not done.
+This is a work in progress, and the melody and full lyrics are not done. also, I need to add the images to the bottom right, and potentially the rolling credits
 
 Eventually I might get around to converting it to C++
 
